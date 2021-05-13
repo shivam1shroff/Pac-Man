@@ -41,7 +41,7 @@ I've built this game using [**Dev-C++ by Embarcadero**](https://www.embarcadero.
 ![Pacman-4](https://user-images.githubusercontent.com/45819538/118194934-d9953e80-b467-11eb-8b8e-a16ec359c282.jpg)   -->
 
 
-<img align="left" src="https://user-images.githubusercontent.com/45819538/118194368-e49b9f00-b466-11eb-9f16-0f10537fc7ce.jpg" width="450">
-<img align="right"src="https://user-images.githubusercontent.com/45819538/118194930-d8641180-b467-11eb-8929-ad4aeb5b4fdd.jpg" width="450">
-<img align="right"src="https://user-images.githubusercontent.com/45819538/118194934-d9953e80-b467-11eb-8b8e-a16ec359c282.jpg" width="450">
-<img align="left"src="https://user-images.githubusercontent.com/45819538/118194932-d9953e80-b467-11eb-8893-3fa71015856c.jpg" width="450">
+<img align="left" src="https://user-images.githubusercontent.com/45819538/118194368-e49b9f00-b466-11eb-9f16-0f10537fc7ce.jpg" width="300">
+<img align="right"src="https://user-images.githubusercontent.com/45819538/118194930-d8641180-b467-11eb-8929-ad4aeb5b4fdd.jpg" width="300">
+<img align="right"src="https://user-images.githubusercontent.com/45819538/118194934-d9953e80-b467-11eb-8b8e-a16ec359c282.jpg" width="300">
+<img align="left"src="https://user-images.githubusercontent.com/45819538/118194932-d9953e80-b467-11eb-8893-3fa71015856c.jpg" width="300">
